@@ -1,0 +1,128 @@
+.wrapper-div-3121024 {
+  --image-0: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAUCAYAAABF5ffbAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAkSURBVHgB7cghDgAACMPAhpfv54BETKPWpOYAtPdZhSn4gLYBfDgEIhvhZaMAAAAASUVORK5CYII=);
+  --image-1: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAFCAYAAACn39dKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAkSURBVHgBrczBDQAABMDAEoMzOYboJf02gEYS3yJJROqsvkFyGqMCC34ImkYAAAAASUVORK5CYII=);
+  position: relative;
+  max-width: 1444px;
+  margin: auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.cosmic-collecti-3121027-0 {
+  font-size: 55px;
+  letter-spacing: -2.24px;
+  line-height: 56px;
+
+  font-family: TacticSans-Reg;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.categories-3121028-0 {
+  font-size: 17px;
+  letter-spacing: 6.12px;
+  line-height: 18px;
+
+  font-family: TacticSans-Reg;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #959799ff;
+}
+
+.all-3121031-0 {
+  font-size: 23px;
+  letter-spacing: 1.08px;
+  line-height: 24px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #222222ff;
+}
+
+.face-3121033-0 {
+  font-size: 23px;
+  letter-spacing: 1.08px;
+  line-height: 24px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #222222ff;
+}
+
+.lip-3121035-0 {
+  font-size: 23px;
+  letter-spacing: 1.08px;
+  line-height: 24px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #222222ff;
+}
+
+.eye-3121037-0 {
+  font-size: 23px;
+  letter-spacing: 1.08px;
+  line-height: 24px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #222222ff;
+}
+
+.tools-3121039-0 {
+  font-size: 23px;
+  letter-spacing: 1.08px;
+  line-height: 24px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #222222ff;
+}
+
+.filters-3121041-0 {
+  font-size: 23px;
+  letter-spacing: 1.08px;
+  line-height: 24px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #222222ff;
+}
+.nodeBg-3121043 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-3121044 {
+  opacity: 1;
+  background-image: var(--image-1);
+}

@@ -1,0 +1,1 @@
+const texts = {text1: `Additional 15% OFF on every product`}; export default texts;

@@ -1,0 +1,1 @@
+const texts = {text1: `1`, text2: `2`, text3: `3`, text4: `4`, text5: `5`}; export default texts;

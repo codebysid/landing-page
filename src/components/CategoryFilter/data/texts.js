@@ -1,0 +1,1 @@
+const texts = {text1: `COSMIC COLLECTION`, text2: `Categories`, text3: `All`, text4: `Face`, text5: `Lip`, text6: `Eye`, text7: `Tools`, text8: `Filters`}; export default texts;

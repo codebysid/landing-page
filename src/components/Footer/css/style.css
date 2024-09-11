@@ -1,0 +1,300 @@
+.wrapper-div-312951 {
+  --image-0: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAOCAYAAAAmL5yKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADCSURBVHgBnZKBDcIgEEWhC8gIHaEbyAjdoN1AN9ANdAUn0A3qBrqB3aB2gvMfnpG2lJS+5IcEuM+HQ6sFEFGNYQv10Flr3fqLOVRGik80ZS91uXOHupAJ5izFqTLZa6ArJg7O9Y9V87S4yoVPKUeunIbNjlATO/0X09A6XLoMMd4Y7yqdp/9YBaXRTOzo25qlVMFMYtIln+4Z8IM+IsUvGrZ5ULiTDcnFNcXhK/GfMKHUWkzY2UIFtJG1Xlp1k1YH+QBb9N2/XVhEOwAAAABJRU5ErkJggg==);
+  --image-1: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAQCAYAAAAvf+5AAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACHSURBVHgBxVHBDYAgDCzGAXADRnADGcFNXAE3kA0chU1YgQ1qIRgrxMjDxEsuLc21lwsCCiCipDITFRtvpWgkeqyhuEg9iJKwZwd1YWeJIfeBXzTsgocCHTSip+2F6kCc2FxGh/MhhDCA7/Ct1i5ZE9c8iNYarpQ29/tt7bPUPwr5XzvWV2EOeqKOvltzM/gAAAAASUVORK5CYII=);
+  --image-2: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAOCAYAAAAi2ky3AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACfSURBVHgB3ZPdCQIxEIR3D989O7hS7EA7MB1oCZZgB2cnlmAJsQO1gnUGNhAPLtzf030wCSTDZAiJCjCzBtMF2so4vtBNVV/iQdGmE6GaIcds8eHtitDj3sShwnqdefbQExunQsiZHvcmdtwIPZXbvB3rd1rkhI30E3gqTFe/1LbT/o9SEGmguwygkoVYedBH5vNO7yPadCKTlIMt8Gl/ssYC8neGL8EAAAAASUVORK5CYII=);
+  position: relative;
+  max-width: 1440px;
+  margin: auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.menu-312955-0 {
+  font-size: 15px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+
+  font-family: Poppins;
+  font-weight: 600;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.find-a-store-312956-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.become-a-member-312957-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.sign-up-for-ema-312958-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.student-discoun-312959-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.send-us-feedbac-312960-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.helpdesk-312963-0 {
+  font-size: 15px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+
+  font-family: Poppins;
+  font-weight: 600;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.order-status-312964-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.delivery-312965-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.returns-312966-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.payment-options-312967-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.contact-us-312968-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.about-glam-312971-0 {
+  font-size: 15px;
+  letter-spacing: -0.32px;
+  line-height: 16px;
+
+  font-family: Poppins;
+  font-weight: 600;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.news-312972-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.careers-312973-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.investors-312974-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.sustainability-312975-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.primary-address-312978-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 600;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+
+.primary-address-312978-1 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}
+.nodeBg-312981 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-312983 {
+  opacity: 1;
+  background-image: var(--image-1);
+}
+.nodeBg-312985 {
+  opacity: 1;
+  background-image: var(--image-2);
+}
+.c-2024-glam-inc-a-312986-0 {
+  font-size: 13px;
+  letter-spacing: -0.28px;
+  line-height: 14px;
+
+  font-family: Poppins;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #ffffffff;
+}

@@ -1,0 +1,74 @@
+.wrapper-div-2021462 {
+  --image-0: url(../graphics/graphics0.png);
+  --image-1: url(../graphics/graphics1.png);
+  position: relative;
+  height: 524px;
+  width: 299px;
+  margin: auto;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.nodeBg-I2021445_2006159 {
+  object-fit: cover;
+  opacity: 1;
+}
+.matte-powder-bl-I2021445_2006160-0 {
+  font-size: 17px;
+
+  line-height: 18px;
+
+  font-family: TacticSans-Reg;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+.nodeBg-I2021445_2006177 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-I2021445_2006178 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-I2021445_2006179 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-I2021445_2006180 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-I2021445_2006181 {
+  opacity: 1;
+  background-image: var(--image-1);
+}
+.c-1499-I2021445_2006167-0 {
+  font-size: 17px;
+
+  line-height: 18px;
+
+  font-family: Tactic Sans;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.add-to-bag-I2021445_2006164-0 {
+  font-size: 15px;
+  letter-spacing: 0.72px;
+  line-height: 16px;
+
+  font-family: Archivo;
+  font-weight: 800;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #222222ff;
+}

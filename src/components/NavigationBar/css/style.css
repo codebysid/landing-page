@@ -1,0 +1,124 @@
+.wrapper-div-2021393 {
+  --image-0: url(../graphics/graphics0.png);
+  --image-1: url(../graphics/graphics1.png);
+  position: relative;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.glam-2021395-0 {
+  font-size: 23px;
+
+  line-height: 24px;
+
+  font-family: TacticSans-Reg;
+  font-weight: 400;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: nowrap;
+  color: #000000ff;
+}
+
+.new-arrivals-2021398-0 {
+  font-size: 15px;
+
+  line-height: 16px;
+
+  font-family: Sansation;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.brands-2021400-0 {
+  font-size: 15px;
+
+  line-height: 16px;
+
+  font-family: Sansation;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.makeup-2021402-0 {
+  font-size: 15px;
+
+  line-height: 16px;
+
+  font-family: Sansation;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.skin-2021404-0 {
+  font-size: 15px;
+
+  line-height: 16px;
+
+  font-family: Sansation;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.hair-2021406-0 {
+  font-size: 15px;
+
+  line-height: 16px;
+
+  font-family: Sansation;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+
+.combos-2021408-0 {
+  font-size: 15px;
+
+  line-height: 16px;
+
+  font-family: Sansation;
+  font-weight: 700;
+
+  text-decoration: none;
+  text-transform: none;
+  white-space: pre-wrap;
+  color: #000000ff;
+}
+.nodeBg-2021411 {
+  object-fit: cover;
+  opacity: 1;
+}
+.nodeBg-2021413 {
+  object-fit: cover;
+  opacity: 1;
+}
+.nodeBg-2021415 {
+  object-fit: cover;
+  opacity: 1;
+}
+.nodeBg-2021419 {
+  opacity: 1;
+  background-image: var(--image-0);
+}
+.nodeBg-2021420 {
+  opacity: 1;
+  background-image: var(--image-1);
+}
